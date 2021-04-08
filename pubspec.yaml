@@ -1,0 +1,17 @@
+name: city_picker_2
+description: Basing city_pickers(https://pub.dev/packages/city_pickers) modify some problem which cause bug when i use base ios with flutter 2.0.4
+version: 0.0.1
+homepage: https://pub:dev/packages/city_picker_2
+
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dev_dependencies:
+  flutter_colorpicker: ^0.2.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lpinyin: ^1.0.7
